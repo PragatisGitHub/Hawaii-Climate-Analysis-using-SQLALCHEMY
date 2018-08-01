@@ -386,7 +386,7 @@ plt.show()
 ```
 
 
-![png](Resources/output_35_0.png)
+![png](Images/output_35_0.png)
 
 
 
@@ -637,7 +637,8 @@ plt.show()
 ```
 
 
-![png](output_46_0.png)
+![png](Images/output_46_0.png)
+
 
 
 ### Temperature Analysis (Optional)
@@ -731,7 +732,7 @@ plt.show()
 ```
 
 
-![png](output_52_0.png)
+![png](Images/output_52_0.png)
 
 
 
